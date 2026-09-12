@@ -21,6 +21,6 @@
    ========================================================================= */
 
 const CONFIG = {
-  SUPABASE_URL: "mjwxljjgpjxojlfricyb",
+  SUPABASE_URL: "https://mjwxljjgpjxojlfricyb.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_HpT6N_SUzINKnMYMt8Viyg_DDr1ijLi",
 };
